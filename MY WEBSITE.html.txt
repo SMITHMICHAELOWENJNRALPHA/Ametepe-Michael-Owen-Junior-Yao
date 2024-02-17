@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography of Ametepe Michael Owen Junior Yao</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            margin-bottom: 5px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Biography of Ametepe Michael Owen Junior Yao</h1>
+</header>
+
+<section>
+    <h2>Early Life</h2>
+    <p>Ametepe Michael Owen Junior Yao was born on the 17th of March, 2004. His early years were filled with curiosity and a burgeoning love for the written word. Even as a child, he showed a keen interest in literature and storytelling.</p>
+</section>
+
+<section>
+    <h2>Developing a Passion for Writing</h2>
+    <p>As he grew older, his passion for writing began to take shape. He found himself drawn to the art of crafting poems, riddles, jokes, and stories. Each word he wrote, each line he crafted, was a testament to his growing skill and love for the art.</p>
+</section>
+
+<section>
+    <h2>High School Achievements</h2>
+    <p>During his high school days, Ametepe's talents were recognized and rewarded. He bagged two certificates - one for being a member of the writers and debaters club of his alma mater, and the other for being an editor. His leadership skills shone through as he took on the role of organizer for the writers and debaters club. His technical prowess was also evident as he served as the assistant programmer for the robotics club.</p>
+</section>
+
+<section>
+    <h2>Inspirations and Influences</h2>
+    <p>Ametepe's work is not just limited to entertaining his readers. He also aims to inspire and motivate them. His writings often carry a deeper message, a nugget of wisdom, or a spark of motivation that encourages his readers to strive for their best.</p>
+</section>
+
+<section>
+    <h2>Future Aspirations</h2>
+    <p>Now, at the age of 19, Ametepe continues to hone his craft. He dreams of becoming a renowned writer, whose words will touch the hearts of people around the world. With his talent and determination, there is no doubt that he is well on his way to achieving his dreams.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Ametepe Michael Owen Junior Yao. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
